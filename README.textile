@@ -1,0 +1,12 @@
+h1. Marimba 
+
+h3. A GUI for proteomics results and MRM experimental design
+
+One of the continuing challenges for many proteomics researchers is how to move beyond discovery based high-throughput shutgun proteomics experiments to directed intensive hypothesis testing experiments like MRM. 
+
+One of the maoin limitations is a responsive and easily understandable GUI for viewing the high-throughput results with an eye towards designing the next step in the process.
+
+Marimba is such a tool. It allows quick perusal and filtering of past shotgun experimental data, highlights the details that are important to an MRM experiment, and outputs an excel file of results that translate directly to best-practice MRM experiments. At least for LTQ data.
+
+
+
