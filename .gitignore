@@ -1,0 +1,5 @@
+.Thumbs
+.DS_Store
+*.mrm
+gems/cache/*
+gems/gems/*
